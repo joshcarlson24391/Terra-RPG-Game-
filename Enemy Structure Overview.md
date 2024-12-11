@@ -49,4 +49,20 @@ Enemies in the game are designed to challenge the player and provide rewards upo
     - Mana: 20
     - Stamina: 30
     - Defense: 5
-    - Offense:
+    - Offense: 10
+    - Speed: 15
+    - Accuracy: 80%
+  - **Experience Drop**: 15 XP
+  - **Difficulty Rating**: Easy
+  - **Item Drops**:
+    - Small Healing Potion
+    - Bronze Coin (5-10)
+    - Rusty Dagger (rare)
+  - **Abilities**:
+    - Quick Strike: A fast attack with moderate damage.
+    - Evade: Chance to dodge the next player attack.
+  - **Behavior**: Tends to attack first, then retreat after taking significant damage.
+  - **Elemental Affinities**: Weak to fire, resistant to poison.
+
+This framework ensures that enemies are varied and engaging, offering both challenge and rewards to enhance the gameplay experience.
+
