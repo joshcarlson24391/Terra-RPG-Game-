@@ -60,11 +60,28 @@
   - Players will interact with various factions, each with distinct motivations, technologies, and cultures.
   - Combat will involve strategic decision-making, utilizing the protagonist’s natural aptitude for magic.
 
+- **Collectible Items and Equipment**:
+
+  - **Magical Runes**:
+    - Collectible runes that grant buffs such as increased attack power, resistance to certain elements, or enhanced spell effects.
+  - **Rare Weapons**:
+    - Unique and powerful weapons, each with its own abilities, lore, and combat bonuses.
+  - **Potions**:
+    - Standard varieties include healing potions, mana potions, stamina elixirs, and poisons for strategic use in combat.
+  - **Armor**:
+    - Armor sets that enhance defensive stats, with rare pieces providing additional bonuses like reduced magic damage or health regeneration.
+  - **Artifacts**:
+    - Rare, story-related items with unique passive abilities that influence gameplay or unlock new areas.
+  - **Crafting Materials**:
+    - Collectible resources such as enchanted metals, rare herbs, and monster parts for crafting and upgrading gear.
+
+- **Currency**:
+  - The game’s currency is **bronze coins**, used for trading, purchasing items, and upgrading equipment.
+
 - **Key Themes**:
 
   - Discovery of self and origins.
   - The clash of cultures and the unknown.
   - Mysteries of ancient civilizations and forgotten history.
   - Rebellion and resistance against established hierarchies.
-
 
