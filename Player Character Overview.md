@@ -37,12 +37,12 @@
    - Influenced by equipped armor and specific buffs.
 
 5. **Offense**:
-   - Measures the character’s attack power.
-   - Includes both physical and magical attack strength.
+   - Measures the character’s base attack power.
+   - Used to calculate damage, and allows for damage boosting buffs
 
 6. **Speed**:
    - Determines the order of turns in combat and affects movement in exploration.
-   - Higher speed grants the ability to act more frequently in turn-based combat.
+   - Higher speed grants the ability to dodge more frequently in turn-based combat.
 
 7. **Accuracy**:
    - Increases the likelihood of landing successful hits on enemies.
